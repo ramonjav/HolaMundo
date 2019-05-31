@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="emailtext">E-mail</string>
+    <string name="txtemail" />
+    <string name="password" />
+    <string name="hinyEmail">E-mail</string>
+    <string name="hintPass">Password</string>
+    <string name="email">E-mail</string>
+    <string name="acertaste">Acertaste</string>
+    <string name="saludo">Hola :D</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="amigO">Amigo</string>
+    <string name="enemigo">Enemigo</string>
+    <string name="maje1">Soy maje</string>
+    <string name="maje">Soy maje</string>
+    <string name="save">Save</string>
+    <string name="toast">Mostrar Toast</string>
+    <string name="snack">Mostrar Snack</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="menu">Menu</string>
+    <string name="listado">Listado</string>
+    <string name="listadonotas">Listado Notas</string>
+    <string name="nombre">Nombre</string>
+    <string name="pass">password</string>
+</resources>
